@@ -1,10 +1,10 @@
- a,b,c=12,13,14
+a,b=12,13
 if (b%2==0 or a%2==0):
     print("Even")
 else :
     print("Odd")
 
-'''x=5
+x=5
 
 if x==1:
     print("One")
@@ -15,7 +15,7 @@ elif x==3:
 elif x==4:
     print ("Four")
 else:
-    print("Other value")'''
+    print("Other value")
 
 
 
@@ -35,9 +35,6 @@ while i<=a:
 
     print()
     i=i+1
-    
-    
-    print ("Branched Out py file")
 
 
 

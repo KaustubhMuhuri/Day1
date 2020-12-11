@@ -1,10 +1,10 @@
-'''a,b=12,13
+a,b=12,13
 if (b%2==0 or a%2==0):
     print("Even")
 else :
-    print("Odd") '''
+    print("Odd")
 
-''' x=5
+x=5
 
 if x==1:
     print("One")
@@ -15,15 +15,15 @@ elif x==3:
 elif x==4:
     print ("Four")
 else:
-    print("Other value") '''
+    print("Other value")
 
 
 
-'''i=1
+i=1
 while (i<=100):
     if (i%3!=0 and i%5!=0):
        print(i)
-    i=i+1'''
+    i=i+1
 
 a=int(input("Enter Side length"))
 i=1

@@ -1,10 +1,10 @@
-''' a,b=12,13
+ a,b,c=12,13,14
 if (b%2==0 or a%2==0):
     print("Even")
 else :
     print("Odd")
 
-x=5
+'''x=5
 
 if x==1:
     print("One")

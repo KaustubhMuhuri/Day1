@@ -1,4 +1,4 @@
-a,b=12,13
+''' a,b=12,13
 if (b%2==0 or a%2==0):
     print("Even")
 else :
@@ -34,7 +34,7 @@ while i<=a:
         j=j+1
 
     print()
-    i=i+1
+    i=i+1 '''
 
 
 
